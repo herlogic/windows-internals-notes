@@ -19,7 +19,7 @@ Look into:
 - System calls and how they cross from user → kernel
 - What `ntoskrnl.exe` and `smss.exe` do
 
-1. **Processes, Threads, and Jobs**
+2. **Processes, Threads, and Jobs**
 
 ![image.png](Images/image%201.png)
 
@@ -34,7 +34,7 @@ Learn how Windows runs programs:
 - Process creation (how `CreateProcess()` works internally)
 - Job objects and process groups
 
-1. **Memory Management**
+3. **Memory Management**
 
 ![image.png](Images/image%202.png)
 
@@ -48,7 +48,7 @@ Look into:
 - The role of the Memory Manager (Mm)
 - How the kernel allocates and frees memory
 
-1. Handles, Objects, and the Object Manager
+4. Handles, Objects, and the Object Manager
 
 ![image.png](Images/image%203.png)
 
@@ -60,7 +60,7 @@ Look into:
 - Reference counts
 - Security descriptors and access control
 
-1. I/O System
+5. I/O System
 
 ![image.png](Images/image%204.png)
 
@@ -74,7 +74,7 @@ Look into:
 - Plug and Play (PnP)
 - Windows Driver Model (WDM)
 
-1. The File System
+6. The File System
 
 ![image.png](Images/image%205.png)
 
@@ -86,7 +86,7 @@ Look into:
 - Caching, file handles, and file mapping
 - Symbolic links and reparse points
 
-1. Security
+7. Security
 
 ![image.png](Images/image%206.png)
 
@@ -99,7 +99,7 @@ Look into:
 - Integrity levels and UAC
 - Code signing, Secure Boot
 
-1. Thread Scheduling and CPU
+8. Thread Scheduling and CPU
 
 ![image.png](Images/image%207.png)
 
@@ -111,7 +111,7 @@ Look into:
 - Priorities and quantum
 - Processor groups and affinity
 
-1. System Startup and Boot
+9. System Startup and Boot
 
 ![image.png](Images/image%208.png)
 
@@ -125,7 +125,7 @@ Look into:
 - Roles of `bootmgr`, `winload.exe`, and `smss.exe`
 - Session creation
 
-1. Debugging and Tools
+10. Debugging and Tools
 
 ![image.png](Images/image%2010.png)
 
