@@ -152,9 +152,8 @@ This is part of the kernel mode in modern Windows:
 
 Earlier Windows (XP) had graphics in user mode, but now it’s partially in kernel mode for performance.
 
-![window-system-architecture.png.png](Images\image 11.png)
 
-![image.png](Images/image 11.png)
+![image 11.png](Images/image 11.png)
 
 > The *User mode* is the “safe zone” where apps live,
 > 
@@ -224,7 +223,7 @@ Switch back to *Performance Monitor*.
 
 **% User Time spike** → any user-mode work (command shell, etc.)
 
-![Screenshot 2025-11-17 124724.png](Images\image 12.png)
+![Screenshot 2025-11-17 124724.png](Images/image 12.png)
 
 ### **Subsystems (Win32, POSIX, etc)**
 
