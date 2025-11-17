@@ -1,6 +1,6 @@
 # Windows System Architecture
 
-![image.png](image.png)
+![image.png](Images\image.png)
 
 Think of Windows as a **two-floor building**:
 
@@ -152,7 +152,7 @@ This is part of the kernel mode in modern Windows:
 
 Earlier Windows (XP) had graphics in user mode, but now it’s partially in kernel mode for performance.
 
-![window-system-architecture.png.png](window-system-architecture.png.png)
+![window-system-architecture.png.png](Images\window-system-architecture.png.png)
 
 > The *User mode* is the “safe zone” where apps live,
 > 
@@ -222,7 +222,7 @@ Switch back to *Performance Monitor*.
 
 **% User Time spike** → any user-mode work (command shell, etc.)
 
-![Screenshot 2025-11-17 124724.png](Screenshot_2025-11-17_124724.png)
+![Screenshot 2025-11-17 124724.png](Images\Screenshot_2025-11-17_124724.png)
 
 ### **Subsystems (Win32, POSIX, etc)**
 
