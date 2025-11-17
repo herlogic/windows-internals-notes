@@ -223,7 +223,7 @@ Switch back to *Performance Monitor*.
 
 **% User Time spike** → any user-mode work (command shell, etc.)
 
-![Screenshot 2025-11-17 124724.png](Images/image 12.png)
+![Screenshot 2025-11-17 124724.png](Images/image_12.png)
 
 ### **Subsystems (Win32, POSIX, etc)**
 
