@@ -1,6 +1,6 @@
 # Windows System Architecture
 
-![image.png](Images/image.png)
+![image.png](Image/image.png)
 
 Think of Windows as a **two-floor building**:
 
