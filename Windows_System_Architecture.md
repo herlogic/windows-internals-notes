@@ -154,6 +154,8 @@ Earlier Windows (XP) had graphics in user mode, but now it’s partially in kern
 
 ![window-system-architecture.png.png](Images\image 11.png)
 
+![image.png](Images/image 11.png)
+
 > The *User mode* is the “safe zone” where apps live,
 > 
 
