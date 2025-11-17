@@ -153,7 +153,7 @@ This is part of the kernel mode in modern Windows:
 Earlier Windows (XP) had graphics in user mode, but now it’s partially in kernel mode for performance.
 
 
-![image 11.png](Images/image 11.png)
+![image 11.png](Images/image_11.png)
 
 > The *User mode* is the “safe zone” where apps live,
 > 
